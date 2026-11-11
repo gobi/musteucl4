@@ -1,0 +1,4 @@
+src/systemc/musteucl4
+src/systemc/musteucl4_b
+src/systemc/*.o
+src/systemc/*.vcd
