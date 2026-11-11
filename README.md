@@ -80,3 +80,7 @@ In `musteucl4.vcd` the tests run in the order (x, y) = (0,0), (1,0), (1,1), (2,0
 ## Citation
 
 If you use this code, please cite the Scientific Reports paper above.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
